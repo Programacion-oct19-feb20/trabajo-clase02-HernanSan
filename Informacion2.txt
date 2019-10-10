@@ -1,0 +1,4 @@
+Informacion2
+ALGORITMOS 
+Conjunto de pasos finitos para dar solucion a un problema. Estan escritos en palabras naturales 
+
